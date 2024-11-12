@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .button {
+        @apply w-full flex justify-center items-center py-4 bg-button text-white hover:text-background hover:bg-primary cursor-pointer rounded-lg text-base font-semibold duration-200
+    }
+}
