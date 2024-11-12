@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Live Site URL: [Vercel](https://blog-preview-kappa-one.vercel.app/)
+- Live Site URL: [Vercel](https://fementor-sociallinks.vercel.app/)
 
 ## My process
 ### Built with
@@ -39,7 +39,7 @@ To be honnest, im not learn anything new but just practice my tailwind skills.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/St4rkXc)
+- Frontend Mentor - [@St4rkXc](https://www.frontendmentor.io/profile/St4rkXc)
 - Instagram - [@dhios.ntz](https://www.instagram.com/dhios.ntz/)
 
 ## Acknowledgments
